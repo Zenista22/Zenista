@@ -17,7 +17,7 @@ function App() {
   return (
     <>
     {/* <Nav/> */}
-    <Router>
+    <Router basename='/Zenista'>
       <Routes>
         <Route exact path="/" element={<Main/>} />
         <Route exact path="/the-great-whites" element={<TheGreatWhites/>} />
