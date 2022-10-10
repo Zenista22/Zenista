@@ -6,7 +6,7 @@ import hod from '../images/persons/hod.png'
 import venish from '../images/persons/venish.png'
 import sarath from '../images/persons/SHARATH KUMAR RG.png'
 import Shashank from '../images/persons/Shashank.png'
-import nishanth from '../images/persons/nishanth2.png'
+import nishanth from '../images/persons/nishanth.jpeg'
 import nirmal from '../images/persons/NIRMAL RAJA K L.png'
 import gopal from '../images/persons/gopal.png'
 import ASRAF from '../images/persons/ASRAF S.png'
@@ -58,7 +58,13 @@ function Ourteam() {
                 <Profilebox image = {janani} title = "Janani Priyadharshini S" />
                 <Profilebox image = {thanush} title = "Thanush S" />
                 <Profilebox image = {varunapriyan} title = "Varunapriyan K" />
+                
             </div>
+            {/* <div className='pro-img-4'>
+                <Profilebox image = {ASRAF} title = "Asraf S" />
+                <Profilebox image = {janani} title = "Janani Priyadharshini S" />
+                
+            </div> */}
         </div>
         <div className='pro-container'>
             <div className='pro-head'>
