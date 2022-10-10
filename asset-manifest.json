@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Zenista/static/css/main.66655cf6.css",
-    "main.js": "/Zenista/static/js/main.0c513607.js",
+    "main.js": "/Zenista/static/js/main.2241551d.js",
     "static/media/THE GREAT WHITES.png": "/Zenista/static/media/THE GREAT WHITES.55f82f82310c0607a9f5.png",
     "static/media/the turnkey salon.png": "/Zenista/static/media/the turnkey salon.c7e1e85c626f37ddd23a.png",
     "static/media/POTPOURRI.png": "/Zenista/static/media/POTPOURRI.386ff24be854dec9b49c.png",
@@ -39,10 +39,10 @@
     "static/media/po.svg": "/Zenista/static/media/po.ba3c4ec8d5f8ccb30037a2d31d3a576a.svg",
     "index.html": "/Zenista/index.html",
     "main.66655cf6.css.map": "/Zenista/static/css/main.66655cf6.css.map",
-    "main.0c513607.js.map": "/Zenista/static/js/main.0c513607.js.map"
+    "main.2241551d.js.map": "/Zenista/static/js/main.2241551d.js.map"
   },
   "entrypoints": [
     "static/css/main.66655cf6.css",
-    "static/js/main.0c513607.js"
+    "static/js/main.2241551d.js"
   ]
 }
