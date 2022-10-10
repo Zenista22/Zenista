@@ -1,0 +1,27 @@
+.about-bg {
+    text-align: center;
+    padding: 5% 15% 0;
+    font-size: 20px;
+}
+
+.about-bg span{
+    color: #f3323b;
+}
+
+.about-contents {
+    display: flex;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    background-color: rgb(34, 33, 33);
+    justify-content:space-around;
+    flex-direction: column;
+}
+
+@media screen and (max-width:600px){
+    .about-contents{
+        font-size: 0.8rem;
+    }
+    
+}

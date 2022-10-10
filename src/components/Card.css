@@ -1,0 +1,49 @@
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+.t-content{
+    display: grid;
+    place-items: center;
+    position: relative;
+    height: 300px;
+    width: 300px;
+    background: #191919;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid #1ff8ed;
+    box-shadow: 2px 2px 12px rgba(248, 229, 229, 0.445);
+    animation: fadeIn 0.7s;
+}
+
+.t-content h2{
+    color: red;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: 'Lato';
+    text-shadow: 2px 2px 12px rgba(247, 65, 65, 0.445);
+    
+}
+
+.t-content span{
+    color: white;
+    font-family: 'Lato';
+}
+
+.t-content .rules{
+    color: white;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+button{
+    border-radius: 5px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border: 1px solid #c9f724;
+    box-shadow: 2px 2px 12px rgba(184, 0, 0, 0.445);
+}
+
+

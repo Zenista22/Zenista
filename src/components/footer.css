@@ -1,0 +1,66 @@
+.footer-logo {
+    height: 100px;
+    width: 100%;
+}
+
+.footer-instagram-link {
+    height: 50px;
+    width: 50px;
+}
+
+a {
+    color: pink;
+    text-decoration: none;
+    font-style: italic;
+    font-family: monospace;
+}
+
+.link-href {    
+    position: relative;
+
+    z-index: 9999;
+}
+
+hr {
+    color: pink;
+    height: 0px;
+    width: 90%;
+}
+.footer-grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, auto);
+    grid-template-areas: "footerAbout getInTouch openingHours";
+    justify-items: center;
+    padding: 0% 10% 0% 10%;
+}
+
+.footer-grid-item-1 {
+    margin: 25px;
+    color: aliceblue;
+    grid-area: footerAbout;
+}
+
+.footer-grid-item-2 {
+    color: aliceblue;
+    grid-area: getInTouch;
+}
+
+.footer-grid-item-3 {
+    color: aliceblue;
+    grid-area: openingHours;
+}
+
+@media only screen and (max-width:550px) {
+    .footer-grid-container {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+        grid-template-areas: 
+        "footerAbout"
+        "getInTouch" 
+        "openingHours";
+        justify-items: start;
+        padding: 10%;
+
+    }
+}
