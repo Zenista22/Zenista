@@ -1,6 +1,6 @@
 import React from 'react'
 import './EventsPage.css'
-import moopoint from '../images/MOO POINT.png'
+import moopoint from '../images/MOO POINT.jpg'
 
 import Particle2 from '../components/Particle';
 import Nav from './EventsNav';
@@ -16,17 +16,6 @@ const MooPoint = () => {
       
 
           <div class="flex2"> 
-          {/* <p class="P1">PERFUME</p>
-      
-          <p class="P2">Gabrielle Essence Eau De Parfum</p> 
-          
-          <p class="P3">A floral, solar and voluptuous interpretation composed by Olivier Polge, 
-              Perfumer-Creator for the House of CHANEL.</p>
-          
-          <div class="price">
-              <p class="price1">$149.99</p>
-              <p class="price2"><s>$169.99</s></p>
-          </div> */}
 
           <p class="P2">M.O.O.P.O.I.N.T</p>
           
@@ -40,8 +29,7 @@ const MooPoint = () => {
             </ol>
             KNOCKOUTS: 
             <ol>
-              <li>Preparation time – 3 mins </li>
-              <li>Each speaker -2 mins for speech </li>
+              <li>Knockouts - On Campus </li>
             </ol>
             FINALS:
             <ol> 

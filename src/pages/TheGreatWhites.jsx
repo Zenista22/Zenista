@@ -1,6 +1,6 @@
 import React from 'react'
 import './EventsPage.css'
-import thegreatwhites from '../images/THE GREAT WHITES.png'
+import thegreatwhites from '../images/THE GREAT WHITES.jpg'
 
 import Particle2 from '../components/Particle';
 import Nav from './EventsNav';
@@ -21,11 +21,11 @@ const TheGreatWhites = () => {
           
             <p class="P3">
               <ol>
-                <li>A team should consist 3 members</li>
-                <li>2 Rounds will be conducted to shortlist the teams</li>
-                <li>The first round will be conducted in the zoom meeting</li>
-                <li>Shortlisted teams will attend the final round (Offline) at the given venue</li>
-                <li>7 minutes for marketing your product 3 minutes for QnA</li>
+                <li>3 members in a team</li>
+                <li>Qualifier Round - Online</li>
+                <li> Mode - Zoom </li>
+                <li>Shortlisted Teams will attend the Finale On Campus.</li>
+                <li>7 minutes for marketing your product, 3 minutes for Q&A</li>
               
               </ol>
             </p>

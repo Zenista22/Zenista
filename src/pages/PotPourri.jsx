@@ -1,6 +1,6 @@
 import React from 'react'
 import './EventsPage.css'
-import POTPOURRI from '../images/POTPOURRI.png'
+import POTPOURRI from '../images/POTPOURRI.jpg'
 
 import Particle2 from '../components/Particle';
 import Nav from './EventsNav';
@@ -15,30 +15,25 @@ const PotPourri = () => {
           <img src={POTPOURRI} alt="Image of perfume" style={{display: 'none'}} class="image-mobile" />
       
 
-          <div class="flex2"> 
-
+          <div class="flex2">
 
           <p class="P2">POTPOURRI</p>
 
-           
           <p class="P3">
           Round 1
           <ol>
-            <li>Mode: Virtual</li>
-            <li>Venue : ZOOM</li>
-            <li>Event date : 29.10.2022</li>
-            <li>reporting time : 10.45 am (29.10.2022)</li>
-            <li>Event time: 11:00 AM - 12:00 AM</li>
+            <li>Mode: Online - Quizizz</li>
           </ol>
-
           Round 2
-
           <ol>
             <li>Mode: ON CAMPUS</li> 
-            <li>Venue : Beta Hall</li>
-            <li>Event date : 04.11.2022</li>
-            <li>reporting time : 9.00 am (04.11.2022)</li>
-            <li>Event time: TBD</li>
+            <li> 3 stages
+              <ul className='list-style'>
+                <li>Dumb charades</li>
+                <li>Technical Pic&Talk</li>
+                <li>Circuit Debugging</li>
+              </ul>
+            </li>
           </ol>
           
           </p>

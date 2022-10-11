@@ -1,6 +1,6 @@
 import React from 'react'
 import './EventsPage.css'
-import theTurnkeySalon from '../images/the turnkey salon.png'
+import theTurnkeySalon from '../images/the turnkey salon.jpg'
 
 import Particle2 from '../components/Particle';
 import Nav from './EventsNav';
@@ -19,31 +19,34 @@ const TheTurnKeySalon = () => {
 
           <p class="P2">THE TURNKEY SALON</p>
 
+          
           <p class="P3">
-          DAY 1 [VIRTUAL]
+          - 3 members in a team
+          <br />
+          <h4>DAY 1 [VIRTUAL]</h4>
           <ol>
             <li>Qualification Round : 
               <ul>
-                <li>Mode: Online</li>
-                <li>Website: Quizizz</li>
+                <li>- Mode: Online</li>
+                <li>- Website: Quizizz</li>
               </ul>
             </li>
           </ol>
-          DAY 2 [ON-CAMPUS]
+          <h4>DAY 2 [ON-CAMPUS]</h4>
           <ol>
             <li>Round 1: Pick your Poison!☠
               <ul>
-                <li>Teams have to pick a Category; 5 Questions under each one of them</li>
+                <li>- Teams have to pick a Category; 5 Questions under each one of them.</li>
               </ul>
             </li>
             <li>Round 2: Lightning McQueen⚡
               <ul>
-                <li>Mode : Rapid Fire</li>
+                <li>- Mode : Rapid Fire</li>
               </ul>
             </li>
-            <li>Round 3: Ace in the Hole! �
+            <li>Round 3: Ace in the Hole! 
               <ul>
-                <li>Basis : Clues through trivia & images</li>
+                <li>- Basis : Clues through trivia & images.</li>
               </ul>
             </li>
           </ol>

@@ -31,7 +31,7 @@ const Accordion = () => {
     <div className='footer-grid-container'>
       <div className='footer-grid-item-1'>
       <img className='footer-logo' src={logo} alt = ''/>
-      <a className='link-href' href="https://instagram.com/zenista2k22?igshid=YmMyMTA2M2Y=">
+      <a className='link-href' href="https://instagram.com/zenista2k22?igshid=YmMyMTA2M2Y=" target="_blank">
         <img className='footer-instagram-link' src={instagram_logo} alt="instagram" />
       </a>
       </div>
@@ -59,17 +59,17 @@ const Accordion = () => {
             &nbsp;
             &nbsp; 
             <td>
-            Janani Priyadharshini <br />
-            +91-1234567890 (for queries)
+            SASHAANK S <br />
+            +91-9445375314 (for queries)
             </td>
           </tr>
         </table>    
         </p>
       </div>
       <div className='footer-grid-item-3'>
-        <h2>ABOUT SAIRAM COLLEGE</h2>
+        <h2>ABOUT COLLEGE</h2>
         <p>
-        Sri Sairam Engineering College, Chennai, established in the year 1995 by MJF.Ln.Leo Muthu, Chairman of Sapthagiri Educational Trust, is a non-profitable and a non-minority institution. A well-defined vision, highly committed mission and a dedicated leadership facilitate Sri Sairam Engineering College to be in the best of educational institutions in the country.
+        Sri Sairam Engineering College, Chennai, established in the year 1995 by MJF.Ln.Leo Muthu, Chairman of Sapthagiri Educational Trust, is a non-profitable and a non-minority institution. A well-defined vision, highly committed mission and a dedicated leadership facilitate Sri Sairam Engineering College to be among the best of educational institutions in the country.
         </p>
       </div>
     </div>
