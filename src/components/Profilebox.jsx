@@ -7,8 +7,12 @@ function Profilebox(props) {
             <img id ='profile' src = {props.image}  alt=''/>
         </div>
         <div className='p-b-text'>
-            <h2>{props.title}</h2>
-            {/* <p className='p-details'>{props.text}</p> */}
+            <h2>
+              {props.title}
+              <br />
+              {props.text}
+            </h2>
+            <a href={`https://www.linkedin.com/in/${props.linkedin}`} target="_blank"><h4>{props.textLinkedin}</h4></a>
         </div>
     </div>
   )

@@ -18,7 +18,6 @@ function MainPage() {
         <Events/>
         <Offer/>
         <Ourteam/>
-        {/* <Popup/> */}  
         <Accordion/>
       </div>
     );

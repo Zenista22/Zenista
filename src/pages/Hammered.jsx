@@ -1,6 +1,6 @@
 import React from 'react'
 import './EventsPage.css'
-import about_bg from '../images/bg3.png'
+import about_bg from '../images/HAMMERED.jpg'
 
 import Particle2 from '../components/Particle';
 import Nav from './EventsNav';
@@ -29,8 +29,25 @@ const Hammered = () => {
           </div> */}
 
           <p class="P2">Hammered!!</p>
+
+          <p class="P3">
+          DAY 1 :
+            <ol>
+              
+              <li>3 members in a team</li>
+              <li>Qualifier Round - Online</li>
+              <li>Website - Quizizz</li>
+            </ol>
+            DAY 2 :
+            <ol>
+              
+              <li>Shortlisted Teams will attend the Auction On Campus.</li>
+              <li>Conventional IPL style auction with a twist.</li>
+              <li>A well balanced squad will win you the auction.</li>
+            </ol>
+          </p>
           
-          <button type="button"> <img src="./icon-cart.svg" alt="" /><p>REGISTER</p> </button>
+          <button id = "pot-button" type="button"><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdNHCO8WSdS8S9CSn2kUJCOT_ONyaX3KAIWSbDQKJva7j1aIQ/viewform" target="_blank">Register</a></p> </button>
           {/* <button type="button"> <img src="./icon-cart.svg" alt="" /><p>BACK</p> </button> */}
           </div>
       </div>

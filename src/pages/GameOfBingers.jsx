@@ -1,36 +1,47 @@
 import React from 'react'
 import './EventsPage.css'
-import about_bg from '../images/bg3.png'
+import about_bg from '../images/GAME OF BINGERS.jpg'
 
 import Particle2 from '../components/Particle';
 import Nav from './EventsNav';
 
-const Hammered = () => {
+const GameOfBingers = () => {
   return (
     <div className='f-body'>
     <Nav/>
         <Particle2/>
       <div id="flex" className='contents'>
-          <img src={about_bg} alt="Image of perfume" height={460} class="image-dsktp" />
-          <img src={about_bg} alt="Image of perfume" style={{display: 'none'}} class="image-mobile" />
+          <img src={about_bg} alt="Image of event" height={460} class="image-dsktp" />
+          <img src={about_bg} alt="Image of event" style={{display: 'none'}} class="image-mobile" />
       
 
           <div class="flex2"> 
-          {/* <p class="P1">PERFUME</p>
-      
-          <p class="P2">Gabrielle Essence Eau De Parfum</p> 
-          
-          <p class="P3">A floral, solar and voluptuous interpretation composed by Olivier Polge, 
-              Perfumer-Creator for the House of CHANEL.</p>
-          
-          <div class="price">
-              <p class="price1">$149.99</p>
-              <p class="price2"><s>$169.99</s></p>
-          </div> */}
 
           <p class="P2">Game Of Bingers</p>
+
+          <p class="P3">
+          <h2>VIRTUAL</h2>
+            <ol>
+              
+              <li>3 members in a team</li>
+              <li>Qualifier Round - Online</li>
+              <li>Website - Quizizz</li>
+            </ol>
+            <h2>ON-CAMPUS</h2>
+            <ol>
+              
+              <li>Shortlisted Teams will attend the finale On Campus</li>
+              <li>Finale - 3 stages
+                <ul>
+                  <li>- Rhapsody</li>
+                  <li>- Framed.wtf</li>
+                  <li>-  Better Call All</li>
+                </ul>
+              </li>
+            </ol>
+          </p>
           
-          <button type="button"> <img src="./icon-cart.svg" alt="" /><p>REGISTER</p> </button>
+          <button id = "pot-button" type="button"><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfBQ9ZDIx9XMwsyq99kOF0jCj_9ydeWTXRpDJvu2Fm6MeUgow/viewform?usp=sf_linkx" target="_blank">Register</a></p> </button>
           {/* <button type="button"> <img src="./icon-cart.svg" alt="" /><p>BACK</p> </button> */}
           </div>
       </div>
@@ -38,4 +49,4 @@ const Hammered = () => {
   )
 }
 
-export default Hammered
+export default GameOfBingers
