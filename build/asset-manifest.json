@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Zenista/static/css/main.66655cf6.css",
-    "main.js": "/Zenista/static/js/main.0c513607.js",
-    "static/media/THE GREAT WHITES.png": "/Zenista/static/media/THE GREAT WHITES.55f82f82310c0607a9f5.png",
-    "static/media/the turnkey salon.png": "/Zenista/static/media/the turnkey salon.c7e1e85c626f37ddd23a.png",
-    "static/media/POTPOURRI.png": "/Zenista/static/media/POTPOURRI.386ff24be854dec9b49c.png",
-    "static/media/MOO POINT.png": "/Zenista/static/media/MOO POINT.497615e9e16889ca8340.png",
+    "main.css": "/Zenista/static/css/main.a2f4aefa.css",
+    "main.js": "/Zenista/static/js/main.64aa40a0.js",
     "static/media/about-bg4.png": "/Zenista/static/media/about-bg4.9a9a3df92973705bb600.png",
+    "static/media/THE GREAT WHITES.jpg": "/Zenista/static/media/THE GREAT WHITES.0935e631a8911f9e412d.jpg",
+    "static/media/GAME OF BINGERS.jpg": "/Zenista/static/media/GAME OF BINGERS.8c3b3a08a24f729da58e.jpg",
+    "static/media/HAMMERED.jpg": "/Zenista/static/media/HAMMERED.3f4c567a4815dc5c34d3.jpg",
+    "static/media/POTPOURRI.jpg": "/Zenista/static/media/POTPOURRI.d5759236bc9b05c8eec7.jpg",
+    "static/media/the turnkey salon.jpg": "/Zenista/static/media/the turnkey salon.cfdbbac705ae8e387128.jpg",
+    "static/media/MOO POINT.jpg": "/Zenista/static/media/MOO POINT.f3d93a6bfcbe5f61c284.jpg",
     "static/media/zenista_logo.png": "/Zenista/static/media/zenista_logo.ebd7a9954780b2c96d5f.png",
     "static/media/bgrt3.png": "/Zenista/static/media/bgrt3.d175eb890ba496e7d0b3.png",
-    "static/media/de.svg": "/Zenista/static/media/de.d6e0725bc297f3b92331d2bf4b90140b.svg",
+    "static/media/de.svg": "/Zenista/static/media/de.f70729d58979bd7ac2aa13e92ec31bb6.svg",
     "static/media/Shashank.png": "/Zenista/static/media/Shashank.96297f630f5493817f9f.png",
     "static/media/Tamil Amudhan.png": "/Zenista/static/media/Tamil Amudhan.1b2aa127688d92c69aa0.png",
     "static/media/SHARATH KUMAR RG.png": "/Zenista/static/media/SHARATH KUMAR RG.f71d86ae9352acb6e3a8.png",
@@ -27,22 +29,22 @@
     "static/media/janani.png": "/Zenista/static/media/janani.107a0bde277cb26ffbac.png",
     "static/media/principal.png": "/Zenista/static/media/principal.0ef6aaad54700e1cb1c9.png",
     "static/media/about-bgr4.png": "/Zenista/static/media/about-bgr4.1f79ddd5cdba6b9d84f2.png",
-    "static/media/bg3.png": "/Zenista/static/media/bg3.d2683d90bba2963bb816.png",
     "static/media/sairam_ceo.png": "/Zenista/static/media/sairam_ceo.0a9b6b511fc2cf277097.png",
     "static/media/hod.png": "/Zenista/static/media/hod.adde0fbff0f4ad07c9f1.png",
     "static/media/instagram-logo.png": "/Zenista/static/media/instagram-logo.fa0feda0dd7e009db626.png",
     "static/media/logeswari.png": "/Zenista/static/media/logeswari.c6051ea039938e3c9696.png",
     "static/media/bgr.png": "/Zenista/static/media/bgr.b74d072e0832e4c1eae7.png",
-    "static/media/sh7.svg": "/Zenista/static/media/sh7.ac9fbbbefd60e79eb24e9532cc2140e0.svg",
-    "static/media/qu.svg": "/Zenista/static/media/qu.86cf2465a434d99a5ea072f2fd8e33b0.svg",
-    "static/media/ha.svg": "/Zenista/static/media/ha.63fdf5f5ddc1ec3d8cce02002af7bac2.svg",
-    "static/media/po.svg": "/Zenista/static/media/po.ba3c4ec8d5f8ccb30037a2d31d3a576a.svg",
+    "static/media/sh7.svg": "/Zenista/static/media/sh7.2b2c4b3e2b7ddef3420b41b9d5a0eb8c.svg",
+    "static/media/shyam.jpg": "/Zenista/static/media/shyam.efb8a450c5ab883eb4f9.jpg",
+    "static/media/qu.svg": "/Zenista/static/media/qu.dfee5140cc6f628b954eb19ec83ab904.svg",
+    "static/media/ha.svg": "/Zenista/static/media/ha.b8b039e68de847097da5df0425e20b4a.svg",
+    "static/media/po.svg": "/Zenista/static/media/po.e65e494dfaab4b5fdeb709073f23ef16.svg",
     "index.html": "/Zenista/index.html",
-    "main.66655cf6.css.map": "/Zenista/static/css/main.66655cf6.css.map",
-    "main.0c513607.js.map": "/Zenista/static/js/main.0c513607.js.map"
+    "main.a2f4aefa.css.map": "/Zenista/static/css/main.a2f4aefa.css.map",
+    "main.64aa40a0.js.map": "/Zenista/static/js/main.64aa40a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.66655cf6.css",
-    "static/js/main.0c513607.js"
+    "static/css/main.a2f4aefa.css",
+    "static/js/main.64aa40a0.js"
   ]
 }

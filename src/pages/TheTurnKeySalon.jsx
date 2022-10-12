@@ -21,19 +21,16 @@ const TheTurnKeySalon = () => {
 
           
           <p class="P3">
-          - 3 members in a team
-          <br />
-          <h4>DAY 1 [VIRTUAL]</h4>
+          * 3 members in a team
           <ol>
+            * DAY 1 [VIRTUAL]
             <li>Qualification Round : 
               <ul>
                 <li>- Mode: Online</li>
                 <li>- Website: Quizizz</li>
               </ul>
             </li>
-          </ol>
-          <h4>DAY 2 [ON-CAMPUS]</h4>
-          <ol>
+            * DAY 2 [ON-CAMPUS]
             <li>Round 1: Pick your Poison!☠
               <ul>
                 <li>- Teams have to pick a Category; 5 Questions under each one of them.</li>
