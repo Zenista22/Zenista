@@ -1,14 +1,9 @@
 {
   "files": {
     "main.css": "/Zenista/static/css/main.411c96ff.css",
-    "main.js": "/Zenista/static/js/main.c4fc6cfd.js",
+    "main.js": "/Zenista/static/js/main.930efcc6.js",
+    "static/media/the_turnkey_salon.png": "/Zenista/static/media/the_turnkey_salon.6c44bd5eace4c30df756.png",
     "static/media/about-bg4.png": "/Zenista/static/media/about-bg4.9a9a3df92973705bb600.png",
-    "static/media/THE GREAT WHITES.jpg": "/Zenista/static/media/THE GREAT WHITES.0935e631a8911f9e412d.jpg",
-    "static/media/GAME OF BINGERS.jpg": "/Zenista/static/media/GAME OF BINGERS.8c3b3a08a24f729da58e.jpg",
-    "static/media/HAMMERED.jpg": "/Zenista/static/media/HAMMERED.3f4c567a4815dc5c34d3.jpg",
-    "static/media/POTPOURRI.jpg": "/Zenista/static/media/POTPOURRI.d5759236bc9b05c8eec7.jpg",
-    "static/media/the turnkey salon.jpg": "/Zenista/static/media/the turnkey salon.cfdbbac705ae8e387128.jpg",
-    "static/media/MOO POINT.jpg": "/Zenista/static/media/MOO POINT.f3d93a6bfcbe5f61c284.jpg",
     "static/media/zenista_logo.png": "/Zenista/static/media/zenista_logo.ebd7a9954780b2c96d5f.png",
     "static/media/bgrt3.png": "/Zenista/static/media/bgrt3.d175eb890ba496e7d0b3.png",
     "static/media/de.svg": "/Zenista/static/media/de.f70729d58979bd7ac2aa13e92ec31bb6.svg",
@@ -30,21 +25,27 @@
     "static/media/about-bgr4.png": "/Zenista/static/media/about-bgr4.1f79ddd5cdba6b9d84f2.png",
     "static/media/sairam_ceo.png": "/Zenista/static/media/sairam_ceo.0a9b6b511fc2cf277097.png",
     "static/media/hod.png": "/Zenista/static/media/hod.adde0fbff0f4ad07c9f1.png",
+    "static/media/GAME OF BINGERS.jpg": "/Zenista/static/media/GAME OF BINGERS.6353a2e5756c0dce14e8.jpg",
+    "static/media/HAMMERED.jpg": "/Zenista/static/media/HAMMERED.2aa12acc48ff4a82862c.jpg",
+    "static/media/THE_GREAT_WHITES.jpg": "/Zenista/static/media/THE_GREAT_WHITES.f75f016810a12bca1575.jpg",
     "static/media/instagram-logo.png": "/Zenista/static/media/instagram-logo.fa0feda0dd7e009db626.png",
+    "static/media/POTPOURRI.jpg": "/Zenista/static/media/POTPOURRI.2423019d5057bda36487.jpg",
     "static/media/logeswari.png": "/Zenista/static/media/logeswari.c6051ea039938e3c9696.png",
+    "static/media/MOO_POINT.jpg": "/Zenista/static/media/MOO_POINT.ec1266fee07b1bf12991.jpg",
+    "static/media/game of bingers logo.svg": "/Zenista/static/media/game of bingers logo.5d5612c192c82335e16cf69afa9e12a3.svg",
     "static/media/bgr.png": "/Zenista/static/media/bgr.b74d072e0832e4c1eae7.png",
     "static/media/venish2.jpg": "/Zenista/static/media/venish2.857b8576e7c61ccfda3f.jpg",
     "static/media/sh7.svg": "/Zenista/static/media/sh7.2b2c4b3e2b7ddef3420b41b9d5a0eb8c.svg",
     "static/media/shyam.jpg": "/Zenista/static/media/shyam.efb8a450c5ab883eb4f9.jpg",
     "static/media/qu.svg": "/Zenista/static/media/qu.dfee5140cc6f628b954eb19ec83ab904.svg",
-    "static/media/ha.svg": "/Zenista/static/media/ha.b8b039e68de847097da5df0425e20b4a.svg",
+    "static/media/Untitled-1.svg": "/Zenista/static/media/Untitled-1.feccff38f82293faebbccf118d17f324.svg",
     "static/media/po.svg": "/Zenista/static/media/po.e65e494dfaab4b5fdeb709073f23ef16.svg",
     "index.html": "/Zenista/index.html",
     "main.411c96ff.css.map": "/Zenista/static/css/main.411c96ff.css.map",
-    "main.c4fc6cfd.js.map": "/Zenista/static/js/main.c4fc6cfd.js.map"
+    "main.930efcc6.js.map": "/Zenista/static/js/main.930efcc6.js.map"
   },
   "entrypoints": [
     "static/css/main.411c96ff.css",
-    "static/js/main.c4fc6cfd.js"
+    "static/js/main.930efcc6.js"
   ]
 }
