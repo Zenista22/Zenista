@@ -1,6 +1,6 @@
 import React from 'react'
 import './EventsPage.css'
-import thegreatwhites from '../images/THE GREAT WHITES.jpg'
+import thegreatwhites from '../images/THE_GREAT_WHITES.jpg'
 
 import Particle2 from '../components/Particle';
 import Nav from './EventsNav';
