@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Zenista/static/css/main.a2f4aefa.css",
-    "main.js": "/Zenista/static/js/main.64aa40a0.js",
+    "main.css": "/Zenista/static/css/main.411c96ff.css",
+    "main.js": "/Zenista/static/js/main.c4fc6cfd.js",
     "static/media/about-bg4.png": "/Zenista/static/media/about-bg4.9a9a3df92973705bb600.png",
     "static/media/THE GREAT WHITES.jpg": "/Zenista/static/media/THE GREAT WHITES.0935e631a8911f9e412d.jpg",
     "static/media/GAME OF BINGERS.jpg": "/Zenista/static/media/GAME OF BINGERS.8c3b3a08a24f729da58e.jpg",
@@ -24,7 +24,6 @@
     "static/media/sriram.png": "/Zenista/static/media/sriram.70d93552ccef5de62ee9.png",
     "static/media/thanush.png": "/Zenista/static/media/thanush.2d3c114d56abe191576f.png",
     "static/media/chitra.png": "/Zenista/static/media/chitra.f5423f3493ddc1780608.png",
-    "static/media/venish.png": "/Zenista/static/media/venish.f4881829ea88db027f6e.png",
     "static/media/varunapriyan.png": "/Zenista/static/media/varunapriyan.02d13c9f898396ef5c1e.png",
     "static/media/janani.png": "/Zenista/static/media/janani.107a0bde277cb26ffbac.png",
     "static/media/principal.png": "/Zenista/static/media/principal.0ef6aaad54700e1cb1c9.png",
@@ -34,17 +33,18 @@
     "static/media/instagram-logo.png": "/Zenista/static/media/instagram-logo.fa0feda0dd7e009db626.png",
     "static/media/logeswari.png": "/Zenista/static/media/logeswari.c6051ea039938e3c9696.png",
     "static/media/bgr.png": "/Zenista/static/media/bgr.b74d072e0832e4c1eae7.png",
+    "static/media/venish2.jpg": "/Zenista/static/media/venish2.857b8576e7c61ccfda3f.jpg",
     "static/media/sh7.svg": "/Zenista/static/media/sh7.2b2c4b3e2b7ddef3420b41b9d5a0eb8c.svg",
     "static/media/shyam.jpg": "/Zenista/static/media/shyam.efb8a450c5ab883eb4f9.jpg",
     "static/media/qu.svg": "/Zenista/static/media/qu.dfee5140cc6f628b954eb19ec83ab904.svg",
     "static/media/ha.svg": "/Zenista/static/media/ha.b8b039e68de847097da5df0425e20b4a.svg",
     "static/media/po.svg": "/Zenista/static/media/po.e65e494dfaab4b5fdeb709073f23ef16.svg",
     "index.html": "/Zenista/index.html",
-    "main.a2f4aefa.css.map": "/Zenista/static/css/main.a2f4aefa.css.map",
-    "main.64aa40a0.js.map": "/Zenista/static/js/main.64aa40a0.js.map"
+    "main.411c96ff.css.map": "/Zenista/static/css/main.411c96ff.css.map",
+    "main.c4fc6cfd.js.map": "/Zenista/static/js/main.c4fc6cfd.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2f4aefa.css",
-    "static/js/main.64aa40a0.js"
+    "static/css/main.411c96ff.css",
+    "static/js/main.c4fc6cfd.js"
   ]
 }
