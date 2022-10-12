@@ -3,7 +3,7 @@ import Profilebox from './Profilebox'
 
 import principal from '../images/persons/principal.png'
 import hod from '../images/persons/hod.png'
-import venish from '../images/persons/venish.png'
+import venish from '../images/persons/venish2.jpg'
 import sarath from '../images/persons/SHARATH KUMAR RG.png'
 import Shashank from '../images/persons/Shashank.png'
 import nishanth from '../images/persons/nishanth.jpeg'
@@ -50,21 +50,21 @@ function Ourteam() {
                 <h2>ORGANIZERS</h2>
             </div>
             <div className='pro-img-4'>
-                <Profilebox image = {janani} title = "JANANI PRIYADHARSHINI S" textLinkedin='linkedin' />
-                <Profilebox image = {Shashank} title = "SASHAANK S" textLinkedin='linkedin' />
-                <Profilebox image = {nishanth} title = "NISHANTH N" textLinkedin='linkedin' />
-                <Profilebox image = {gopal} title = "GOPALRAM S" textLinkedin='linkedin' />
+                <Profilebox image = {janani} title = "JANANI PRIYADHARSHINI S" linkedin="janani-priyadharshini-s-ba26751ab" textLinkedin="linkedin" />
+                <Profilebox image = {Shashank} title = "SASHAANK S" linkedin="sashaank-s-997a7b1ab" textLinkedin='linkedin' />
+                <Profilebox image = {nishanth} title = "NISHANTH N" linkedin="nishanth-nagaraj-5865191a9" textLinkedin='linkedin' />
+                <Profilebox image = {gopal} title = "GOPALRAM S" linkedin="gopalram-saravanan-4748911ab" textLinkedin="linkedin" />
             </div>
             <div className='pro-img-4'>
-                <Profilebox image = {ASRAF} title = "ASRAF S" textLinkedin='linkedin' />
-                <Profilebox image = {nirmal} title = "NIRMAL RAJA K L" textLinkedin='linkedin' />
-                <Profilebox image = {sarath} title = "SHARATH KUMAR R G" textLinkedin='linkedin' />
-                <Profilebox image = {varunapriyan} title = "VARUNAPRIYAN K" textLinkedin='linkedin' />
+                <Profilebox image = {ASRAF} title = "ASRAF S" linkedin="asraf-s-268b301ab" textLinkedin='linkedin' />
+                <Profilebox image = {nirmal} title = "NIRMAL RAJA K L" linkedin="nirmalrajaloganathan4747" textLinkedin='linkedin' />
+                <Profilebox image = {sarath} title = "SHARATH KUMAR R G" linkedin="sharath-kumar-r-g-4924981ab" textLinkedin="linkedin" />
+                <Profilebox image = {varunapriyan} title = "VARUNAPRIYAN K" linkedin="varunapriyan-k-a647a81ab" textLinkedin="linkedin" />
                 
             </div>
             <div className='pro-img'>
-                <Profilebox id='shyam' image = {shyam} title = "SHYAM KUMAR" textLinkedin='linkedin' />
-                <Profilebox id='thanush' image = {thanush} title = "THANUSH S" textLinkedin='linkedin' />
+                <Profilebox id='shyam' image = {shyam} title = "SHYAM KUMAR" linkedin="shyamkumar-m-6627731ab" textLinkedin="linkedin" />
+                <Profilebox id='thanush' image = {thanush} title = "THANUSH S" linkedin="thanush-s-5a67711ab" textLinkedin="linkedin" />
 
 
                 
@@ -86,7 +86,7 @@ function Ourteam() {
                 <h2>WEB DEVELOPERS</h2>
             </div>
             <div className='pro-img'>
-                <Profilebox image = {sriram} title = "SRIRAM A" textLinkedin='linkedin' />
+                <Profilebox image = {sriram} title = "SRIRAM A" linkedin="sriramanandan003" textLinkedin='linkedin' />
                 <Profilebox image = {venish} title = "VENISH P" linkedin="venish-p" textLinkedin='linkedin' />
             </div>
         </div>

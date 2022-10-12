@@ -1,3 +1,4 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import React from 'react'
 
 function Profilebox(props) {
@@ -12,7 +13,7 @@ function Profilebox(props) {
               <br />
               {props.text}
             </h2>
-            <a href={`https://www.linkedin.com/in/${props.linkedin}`} target="_blank"><h4>{props.textLinkedin}</h4></a>
+            <a href={`https://www.linkedin.com/in/${props.linkedin}`} target="_blank"><h4><i class="fa-brands fa-linkedin"></i>{props.textLinkedin}</h4></a>
         </div>
     </div>
   )
