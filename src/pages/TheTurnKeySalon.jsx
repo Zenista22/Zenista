@@ -1,6 +1,6 @@
 import React from 'react'
 import './EventsPage.css'
-import theTurnkeySalon from '../images/the turnkey salon.jpg'
+import theTurnkeySalon from '../images/the_turnkey_salon.png'
 
 import Particle2 from '../components/Particle';
 import Nav from './EventsNav';
