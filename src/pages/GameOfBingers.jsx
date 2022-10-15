@@ -1,6 +1,6 @@
 import React from 'react'
 import './EventsPage.css'
-import about_bg from '../images/GAME OF BINGERS.jpg'
+import about_bg from '../images/GAME OF BINGERS.png'
 
 import Particle2 from '../components/Particle';
 import Nav from './EventsNav';

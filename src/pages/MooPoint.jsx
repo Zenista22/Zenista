@@ -1,6 +1,6 @@
 import React from 'react'
 import './EventsPage.css'
-import moopoint from '../images/MOO_POINT.jpg'
+import moopoint from '../images/MOO_POINT.png'
 
 import Particle2 from '../components/Particle';
 import Nav from './EventsNav';

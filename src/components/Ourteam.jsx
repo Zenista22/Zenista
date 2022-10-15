@@ -3,7 +3,7 @@ import Profilebox from './Profilebox'
 
 import principal from '../images/persons/principal.png'
 import hod from '../images/persons/hod.png'
-import venish from '../images/persons/venish2.jpg'
+import venish from '../images/persons/venish.png'
 import sarath from '../images/persons/SHARATH KUMAR RG.png'
 import Shashank from '../images/persons/Shashank.png'
 import nishanth from '../images/persons/nishanth.jpeg'

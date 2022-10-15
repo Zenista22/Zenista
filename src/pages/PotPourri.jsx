@@ -1,6 +1,6 @@
 import React from 'react'
 import './EventsPage.css'
-import POTPOURRI from '../images/POTPOURRI.jpg'
+import POTPOURRI from '../images/POTPOURRI.png'
 
 import Particle2 from '../components/Particle';
 import Nav from './EventsNav';

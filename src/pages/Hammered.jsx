@@ -1,6 +1,6 @@
 import React from 'react'
 import './EventsPage.css'
-import about_bg from '../images/HAMMERED.jpg'
+import about_bg from '../images/HAMMERED.png'
 
 import Particle2 from '../components/Particle';
 import Nav from './EventsNav';
