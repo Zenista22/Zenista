@@ -1,0 +1,270 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+
+f-body{
+  max-width: 100%;
+  width: 100%;
+
+}
+
+
+
+
+
+
+
+
+#shark-button{
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+#turn-button{
+  margin-left: 30px;
+  margin-bottom: 90px; 
+}
+
+#moon-button{
+  margin-left: 30px;
+  margin-bottom: 10px; 
+}
+
+
+#pot-button{
+  margin-left: 30px;
+  margin-bottom: 10px;   
+}
+
+
+.contents {
+
+  position: relative;
+  top: 100px;
+  left: 8%;
+  border: 10px;
+  margin-bottom: 30px;
+
+  --border-width: 3px;
+  padding: 0;
+
+  font-family: Lato, sans-serif;
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  color: white;
+  background: #222;
+  border-radius: 10px;
+}
+.contents::after {
+  position: absolute;
+  content: "";
+  top: calc(-1 * var(--border-width));
+  left: calc(-1 * var(--border-width));
+  z-index: -1;
+  width: calc(100% + var(--border-width) * 2);
+  height: calc(100% + var(--border-width) * 2);
+  background: linear-gradient(60deg, #f87d4d, #fada4b, #cfedf8, #740305, #04b2f7, #f3ba40, #5ff281, #fc4d72);
+  background-size: 300% 300%;
+  background-position: 0 50%;
+  border-radius: calc(2 * var(--border-width));
+  animation: moveGradient 4s alternate infinite;
+}
+
+@keyframes moveGradient {
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+
+
+#flex {
+  display: flex;
+  position: absolute;
+  top: 70px;
+  left: 13%;
+  border: 10px;
+  margin-bottom: 30px;
+  
+}
+
+.image-dsktp{
+  width: 400px;
+  height: 85vh;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.flex2 {
+  
+  background-color: hsla(189, 92%, 61%, 0.16);
+  width: 600px;
+  height: 85vh;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+
+
+
+.P2 {
+  font-family: 'Fraunces', serif;
+  color: white;
+  font-size: 33px;
+  font-weight: 700;
+  line-height: 30px;
+  padding: 45px;
+  position: relative;
+  top: 6px;
+  right: 16.5px;
+  margin-bottom: 30px;
+  
+}
+
+.P3 {
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 25px;
+  color: #FFFFFF;
+  padding: 20px 20px 0;
+  position: relative;
+  top: -110px;
+  left: 7px;
+  margin-top: 30px;
+}
+
+
+
+
+button {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(247, 37, 37);
+  color: #E7F9F1;
+  width: 230px;
+  margin-top: -100px;
+  padding: 7px;
+  border: 0px;
+  border-radius: 8px;
+  stroke: #f3323b;
+  stroke-width: 10px;
+  
+}
+
+
+
+button p {
+  padding: 10px;
+  margin: 0px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+button:hover  {
+  background-color: #603030;
+}
+
+.attribution { font-size: 11px; text-align: center; display: none;}
+.attribution a { color: hsl(228, 45%, 44%); }
+
+@media (max-width: 700px ) {
+
+  .contents{
+    padding-bottom: 20px;
+  }
+
+  #flex {
+    display: inline-block;
+    width: 308px;
+    position: absolute;
+    top: 50px;
+    left: 2%;
+    margin: 25px;
+    background-color: none;
+  }
+
+
+
+  .image-dsktp {
+    display: none;
+  }
+
+  .image-mobile {
+    padding-top:0;
+    display: block !important;
+    width: 290px;
+    height: 380px;
+    margin-left: 14px;
+    position: relative;
+    top: 9px;
+    right: 6px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;       
+  }
+
+  .flex2 {
+    top:10px;
+    width: 290px;
+    height: 680px;
+    position: relative;
+    left: 6.5px;
+    bottom: -6px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+  }
+
+
+
+  .P2 {
+    width: 240px;
+    font-size: 21px;
+    padding: 3px;
+    position: relative;
+    top: 5px;
+    left: 20px;
+    margin-top: 60px;
+    margin-bottom: 25px;
+    
+  }
+
+  .P3 {
+    width: 270px;
+    font-size: 13px;
+    padding: 5px;
+    margin-top: 85px;
+    margin-bottom: 35px;
+    position: relative;
+    left: 15px;
+
+  }
+
+  button {
+    position: relative;
+    top: -55px;
+    left: -4px;
+    padding: 6px;
+  }
+  
+  button p { 
+    padding: 6px;
+  }
+
+  .attribution {
+    margin-top: 0px;
+  }
+
+  #shark-button{
+    margin-left: 30px;
+    margin-bottom: 1px;
+  }
+  
+}
