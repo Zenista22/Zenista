@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Zenista/static/css/main.411c96ff.css",
-    "main.js": "/Zenista/static/js/main.eb36d917.js",
+    "main.css": "/Zenista/static/css/main.afee2c32.css",
+    "main.js": "/Zenista/static/js/main.cde7650a.js",
     "static/media/THE_GREAT_WHITES.png": "/Zenista/static/media/THE_GREAT_WHITES.a8ff9f7d50e56502de55.png",
     "static/media/the_turnkey_salon.png": "/Zenista/static/media/the_turnkey_salon.ea1eea8e7a32c48ce997.png",
     "static/media/POTPOURRI.png": "/Zenista/static/media/POTPOURRI.1cc518c36f635ed8856d.png",
@@ -33,19 +33,19 @@
     "static/media/hod.png": "/Zenista/static/media/hod.adde0fbff0f4ad07c9f1.png",
     "static/media/instagram-logo.png": "/Zenista/static/media/instagram-logo.fa0feda0dd7e009db626.png",
     "static/media/logeswari.png": "/Zenista/static/media/logeswari.c6051ea039938e3c9696.png",
-    "static/media/game of bingers logo.svg": "/Zenista/static/media/game of bingers logo.5d5612c192c82335e16cf69afa9e12a3.svg",
+    "static/media/game of bingers logo.svg": "/Zenista/static/media/game of bingers logo.d6f49ef25b3461dbd7742771d2f4fcca.svg",
     "static/media/bgr.png": "/Zenista/static/media/bgr.b74d072e0832e4c1eae7.png",
     "static/media/sh7.svg": "/Zenista/static/media/sh7.2b2c4b3e2b7ddef3420b41b9d5a0eb8c.svg",
     "static/media/shyam.jpg": "/Zenista/static/media/shyam.efb8a450c5ab883eb4f9.jpg",
     "static/media/qu.svg": "/Zenista/static/media/qu.dfee5140cc6f628b954eb19ec83ab904.svg",
-    "static/media/Untitled-1.svg": "/Zenista/static/media/Untitled-1.feccff38f82293faebbccf118d17f324.svg",
+    "static/media/Untitled-1.svg": "/Zenista/static/media/Untitled-1.9b9718b0f59216d36ff10a92b7b3654a.svg",
     "static/media/po.svg": "/Zenista/static/media/po.e65e494dfaab4b5fdeb709073f23ef16.svg",
     "index.html": "/Zenista/index.html",
-    "main.411c96ff.css.map": "/Zenista/static/css/main.411c96ff.css.map",
-    "main.eb36d917.js.map": "/Zenista/static/js/main.eb36d917.js.map"
+    "main.afee2c32.css.map": "/Zenista/static/css/main.afee2c32.css.map",
+    "main.cde7650a.js.map": "/Zenista/static/js/main.cde7650a.js.map"
   },
   "entrypoints": [
-    "static/css/main.411c96ff.css",
-    "static/js/main.eb36d917.js"
+    "static/css/main.afee2c32.css",
+    "static/js/main.cde7650a.js"
   ]
 }
